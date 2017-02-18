@@ -1,5 +1,9 @@
 # iOS Editorial Markdown Themes
-Markdown Preview Themes for use with the iOS Editorial App
+*Markdown Preview Themes for use with the iOS Editorial App*
+
+****
+
+These Markdown Preview CSS Styles have been specifically designed to work within the Editorial iOS app. However, they could be easily adapted for most other CSS purposes or for other Markdown Editors.
 
 To view screenshots of each theme, [CLICK HERE](https://github.com/g33kyM0m/iOS-Editorial-Markdown-Themes/blob/master/Theme-Previews.md)
 
