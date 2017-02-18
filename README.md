@@ -11,7 +11,7 @@ To view screenshots of each theme, [CLICK HERE](https://github.com/g33kyM0m/iOS-
 
 [BEACHFRONT Theme](https://github.com/g33kyM0m/iOS-Editorial-Markdown-Themes/blob/master/BeachfrontTheme.html): added Feb 17, 2017
 
-[Pond Theme](iOS-Editorial-Markdown-Themes-/PondTheme.html): added Feb 17, 2017
+[POND Theme](iOS-Editorial-Markdown-Themes-/PondTheme.html): added Feb 17, 2017
 
 ****
 
