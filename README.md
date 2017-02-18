@@ -1,10 +1,27 @@
 # iOS Editorial Markdown Themes
 Markdown Preview Themes for use with the iOS Editorial App
 
-###THEMES
+To view screenshots of each theme, [CLICK HERE](https://github.com/g33kyM0m/iOS-Editorial-Markdown-Themes/blob/master/Theme-Previews.md)
 
-[Pond Theme](iOS-Editorial-Markdown-Themes-/PondTheme.html)
+[License / Use "fine print"](https://github.com/g33kyM0m/iOS-Editorial-Markdown-Themes/blob/master/LICENSE) : The general "gist" though is covered near the top of each theme file.
 
-###Theme Sample Images
+****
 
-![POND THEME](https://cloud.githubusercontent.com/assets/24804027/23089673/dca6df44-f552-11e6-8b6e-94e4e3f6b1c9.PNG)
+###THEMES (in alphabetical order)
+
+[BEACHFRONT Theme](https://github.com/g33kyM0m/iOS-Editorial-Markdown-Themes/blob/master/BeachfrontTheme.html): added Feb 17, 2017
+[Pond Theme](iOS-Editorial-Markdown-Themes-/PondTheme.html): added Feb 17, 2017
+
+****
+
+###CREDIT, THANKS, etc.
+
+jasonm23's [MARKDOWN THEMES](https://github.com/jasonm23/markdown-css-themes) for creative inspiration
+
+OMZ software's [EDITORIAL APP](http://omz-software.com/editorial/)
+
+
+
+
+
+
