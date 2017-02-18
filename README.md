@@ -7,4 +7,4 @@ Markdown Preview Themes for use with the iOS Editorial App
 
 ###Theme Sample Images
 
-[POND THEME](iOS-Editorial-Markdown-Themes/IMG_2122.PNG)
+![POND THEME](https://cloud.githubusercontent.com/assets/24804027/23089673/dca6df44-f552-11e6-8b6e-94e4e3f6b1c9.PNG)
